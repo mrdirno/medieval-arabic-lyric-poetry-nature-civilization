@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-arabic-lyric-poetry-nature-civilization",
+  "title": "The Cistern's Green Exhalation",
+  "tagline": "In a scriptorium of rigid law, a paper-maker's daughter discovers a forbidden language written in the margins of her own heart, where ink meets river and silence blooms.",
+  "target_words": 70322,
+  "actual_words": 70322,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Artistry vs. Constraint",
+    "Memory and the Written Word",
+    "The Wildness Within Civilization",
+    "The Alchemy of Creation"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ink of a Trembling Hand",
+      "words": 6392
+    },
+    {
+      "ch": 2,
+      "title": "The Vat, the Fibre, the River",
+      "words": 6392
+    },
+    {
+      "ch": 3,
+      "title": "A Rectangle of Potent Silence",
+      "words": 6392
+    },
+    {
+      "ch": 4,
+      "title": "The City’s Private Exhalations",
+      "words": 6392
+    },
+    {
+      "ch": 5,
+      "title": "A Key of Shadow and Silence",
+      "words": 6392
+    },
+    {
+      "ch": 6,
+      "title": "Rats in a Granary of Names",
+      "words": 6392
+    },
+    {
+      "ch": 7,
+      "title": "The Cistern’s Green Exhalation",
+      "words": 6392
+    },
+    {
+      "ch": 8,
+      "title": "The Rhythm of the Drip",
+      "words": 6392
+    },
+    {
+      "ch": 9,
+      "title": "The Desert Scholar’s Fire",
+      "words": 6392
+    },
+    {
+      "ch": 10,
+      "title": "A Palimpsest of Terraced Prose",
+      "words": 6392
+    },
+    {
+      "ch": 11,
+      "title": "The Patient, Green-Gold Pool",
+      "words": 6392
+    }
+  ]
+}
